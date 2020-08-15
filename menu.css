@@ -1,0 +1,11 @@
+body {
+    background-image: url(food.jpg);
+    background-size: 1800px 1010px;
+    text-align: center;
+}
+.links {
+    color: black;
+}
+.useless {
+    font-size: 40px;
+}
